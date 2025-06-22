@@ -1,3 +1,5 @@
+お知らせ設定アプリ
+
 	概要
 このアプリは、ウエブ開発で、トップページはお知らせの一覧リストが表示されています。入力項目条件で検索できます。又は新規登録や編集や削除などの機能も作りました。
 検索機能については、タイトル、区分、掲載日、適用期間の入力で検索できます。
@@ -28,3 +30,17 @@
 	削除したいおしらせを選択し、「「削除ボタン」をクリックするとアラートが表示される
 	「OKボタン」をクリックするとDBに削除フラグに変更し、一覧に削除した行が消える
 	「キャンペーンボタン」をクリックするとDBに削除フラグに変更し、一覧に削除した行が消える
+
+	閲覧画面
+![image](https://github.com/user-attachments/assets/69bb68eb-e569-4d90-bde8-a1f6ecf0d3dc)
+
+	登録画面
+![image](https://github.com/user-attachments/assets/27399240-385b-4200-a93a-6d10ceb2d443)
+
+	変更画面
+![image](https://github.com/user-attachments/assets/b3e12194-a463-496a-bd5c-50cb736acde5)
+
+	削除画面
+![image](https://github.com/user-attachments/assets/56e87a2e-b7ed-4a9b-a40c-ee6081064ecc)
+
+
